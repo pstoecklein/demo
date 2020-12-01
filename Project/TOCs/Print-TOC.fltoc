@@ -22,27 +22,6 @@
     Link="/Content/Whats-New.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
   <TocEntry
     Title="[%=System.LinkedTitle%]"
-    Link="/Content/Attractions.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-    BreakType="chapter"
-    StartSection="false"
-    PageNumberReset="continue"
-    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl" />
-  <TocEntry
-    Title="[%=System.LinkedTitle%]"
-    Link="/Content/Music.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
-    BreakType="chapter"
-    StartSection="false"
-    PageNumberReset="continue"
-    PageLayout="/Content/Resources/PageLayouts/Chapters.flpgl">
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/South-by-Southwest.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-    <TocEntry
-      Title="[%=System.LinkedTitle%]"
-      Link="/Content/Austin-City-Limits.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
-  </TocEntry>
-  <TocEntry
-    Title="[%=System.LinkedTitle%]"
     Link="/Content/Famous-Austin-Folks.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
     BreakType="chapter"
     StartSection="false"
